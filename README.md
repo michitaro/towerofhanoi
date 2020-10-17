@@ -1,7 +1,5 @@
 # Tower of Hanoi
 
-![screenshot](./screenshot.png)
-
 ```
          Rod A                  Rod B                  Rod C
            |                      |                      |
